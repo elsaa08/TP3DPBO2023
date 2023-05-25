@@ -7,12 +7,18 @@ Saya [Elsa Nabiilah] [2108805] mengerjakan Tugas Praktikum 3 dalam mata kuliah D
 Buatlah program menggunakan bahasa pemrograman PHP dengan
 spesifikasi sebagai berikut:
 ● Program bebas, kecuali program Ormawa
+
 ● Menggunakan minimal 3 buah tabel
+
 ● Terdapat proses Create, Read, Update, dan Delete data
+
 ● Memiliki fungsi pencarian dan pengurutan data (kata kunci bebas)
+
 ● Menggunakan template/skin form tambah data dan ubah data yang sama
+
 ● 1 tabel pada database ditampilkan dalam bentuk bukan tabel, 2 tabel sisanya
 ditampilkan dalam bentuk tabel (seperti contoh saat praktikum)
+
 ● Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
 ## Design Database 
@@ -43,3 +49,10 @@ ditampilkan dalam bentuk tabel (seperti contoh saat praktikum)
 
 
 ### Note : Karena Tabel Musik, Album, Agensi ber Foreign key dengan Tabel producer, maka atribut pada tabel Musik, Album, dan agensi tidak bisa dihapus jika sudah terhubung dengan atribut pada tabel producer
+
+# Demo 
+
+
+https://github.com/elsaa08/TP3DPBO2023/assets/101001227/631b527b-0b8f-49a5-a923-5da0c4552469
+
+
