@@ -98,5 +98,4 @@ $msc->close();
 $view->replace('DATA_AGENSI', $options);
 $view->replace('DATA_MUSIC', $optionsmsc);
 $view->replace('DATA_ALBUM', $optionsalbum);
-$view->replace('SELECT_BUKU', $data['producer_nama']);
 $view->write();
